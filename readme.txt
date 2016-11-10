@@ -23,3 +23,6 @@ git push origin master
 git创建与合并分支
 
 寻找解决冲突的办法
+
+如何解决冲突
+
