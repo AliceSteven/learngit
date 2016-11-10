@@ -21,3 +21,5 @@ git push origin master
 把本地master分支的最新修改推送到github上了。
 
 git创建与合并分支
+
+如何解决冲突
