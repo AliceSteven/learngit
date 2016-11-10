@@ -19,3 +19,5 @@ git remote add origin https://github.com/AliceSteven/learngit.git
 从现在起，只要本地做了提交，就可以通过如下命令：
 git push origin master
 把本地master分支的最新修改推送到github上了。
+
+git创建与合并分支
