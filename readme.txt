@@ -14,6 +14,7 @@ Github上的这个仓库还是空的，github告诉我们，可以从这个仓�
 现在根据github的提示，在本地的learngit仓库下运行命令：
 git remote add origin https://github.com/AliceSteven/learngit.git
 把本地库的内容推送到远程，使用git push命令，实际上是把当前分支master推送到远程
+
 由于远程库是空的，我们第一次推送master分支时，加上-u参数，Git不但会把本地的master分支内容推送到远程新的master分支，还会把本地的master分支和远程的master分支关联起来，在以后的推送或者拉取时就可以简化命令。推送成功后，可以立刻在github页面中看到远程库的内容和本地一模一样了，上面过程中要输入github的用户名和密码。
 从现在起，只要本地做了提交，就可以通过如下命令：
 git push origin master
